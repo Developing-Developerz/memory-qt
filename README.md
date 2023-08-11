@@ -20,7 +20,7 @@ This project uses the [Qt Widgets? / Qt Quick? TBD] approach.
 
 # Description Of The Application
 
-Memory (also known as Concentration) is a card game in which all cards are dealt face down, and two cards are turned face up each turn. The object of the game is to locate pairs of matching cards in as few moves as possible.
+Memory (also known as Concentration) is a card game in which all cards are dealt face down, and two cards are turned face up each turn. The objective of the game is to locate pairs of matching cards in as few moves as possible.
 
 # Download Compiled Binaries
 
