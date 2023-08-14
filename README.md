@@ -14,7 +14,7 @@
 
 This repository describes the implementation of an open-source Memory game in Qt, applying principles of software architecture such as requirements gathering and object-oriented analysis and design.
 
-This project uses the [Qt Widgets? / Qt Quick? TBD] approach.
+This project uses the Qt Quick approach.
 
 [Use cases](#use-cases) and [requirements](#requirements) are kept in the documentation directory (`docs`).
 
